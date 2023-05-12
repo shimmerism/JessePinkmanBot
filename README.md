@@ -1,2 +1,2 @@
 # Jesse Pinkman Bot
-a Discord bot. Purpose is unknown so far.
+a Discord bot for entertainment.
